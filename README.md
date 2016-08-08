@@ -1,4 +1,4 @@
-# docker-apache2
+# apache2
 Basic Apache2 on top of official [debian:jessie](https://hub.docker.com/_/debian/) image.
 
 ## [Automated builds](https://hub.docker.com/r/vicgonco/apache2/) 
