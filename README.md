@@ -15,3 +15,6 @@ docker run -d -p 80:80 -v /path/to/sites-enabled:/etc/apache2/sites-enabled --na
 
 Get a [minimal sites-enabled directory](https://github.com/victorzinho/docker-apache2/tree/master/sites-enabled) to start with.
 
+## Other builds
+
+* [apache2-extras](https://hub.docker.com/r/vicgonco/apache2-extras): Including extra modules.
