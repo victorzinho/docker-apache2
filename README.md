@@ -1,9 +1,7 @@
 # docker-apache2
 Basic Apache2 on top of official [debian:jessie](https://hub.docker.com/_/debian/) image.
 
-## Automated builds
-
-[Automated builds](https://hub.docker.com/r/vicgonco/apache2/):
+## [Automated builds](https://hub.docker.com/r/vicgonco/apache2/):
 
 * Latest ([Dockerfile](https://github.com/victorzinho/docker-apache2/blob/master/Dockerfile))
 
